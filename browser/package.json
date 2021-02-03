@@ -80,6 +80,6 @@
     "react-dom": "^0.14.6",
     "react-dropzone": "^3.5.3",
     "react-infinite-scroller": "^1.0.6",
-    "react-onclickout": "2.0.4"
+    "react-onclickout": "2.0.8"
   }
 }
